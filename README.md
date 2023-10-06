@@ -24,8 +24,8 @@ The dataset includes preferences about the person and the potential partner on t
 
 First we did some data cleaning and EDA (Being careful of not making data leakage), and we got this demographics results:
 
-![Age Distribution of our Dataset](/images/age_distribution_dataset.png)
-![Gender and Race Distribution Dataset](/images/demographics_dataset.png)
+![Age Distribution of our Dataset](/Images/age_distribution_dataset.png)
+![Gender and Race Distribution Dataset](/Images/demographics_dataset.png)
 
 After it, we run our Baseline models, for Logistic Regression and for Decision trees, compare our baseline results with the same models with adjusted Hyperparameters, and run the best performing model to improve the accuracy.
 
